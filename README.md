@@ -30,7 +30,7 @@ List of features ready and TODOs for future development
 * List Views
 
 To-do list:
-* few Validations and Imporovements needed to be done
+* few Validations and Improvements needed to be done
 
 ## Status
 Project is: Completed
