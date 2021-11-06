@@ -38,6 +38,5 @@ Project is: Completed
 ## Inspiration
 Credits to my coach Waleed trainer of SimpliLearn. His Virtual classes and his explanation of the concepts helped me alot :)
 
-## Contact
-Created by [@kumaraguru08](kumaraguru1995.chn@gmail.com) - feel free to contact me!
+
 
